@@ -1,3 +1,3 @@
 # leaflet-bare
 
-Playing around with leaflet
+Playing around with [Leaflet](https://github.com/Leaflet/Leaflet)
